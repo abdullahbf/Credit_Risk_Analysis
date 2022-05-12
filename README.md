@@ -9,7 +9,7 @@ The objective was to compare different resampling and ensemble techniques and de
 
 ### Resampling 
 
-Logistic Regression was used for the resampling methods.
+Logistic Regression was used with the resampling methods.
 
 #### Naive Random Oversampling 
 
