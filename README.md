@@ -74,3 +74,5 @@ Recall (high_risk) : 0.92
 Precision (high_risk) : 0.09
 
 ## Summary
+
+The dataset is imbalanced intrinsically. The ratio of high-risk to low-risk is very low. As a result, the precision values are less important than the recall (sensitivity) values. Looking at the recall values for the 6 methods tested, "Easy Ensemble AdaBoost classifier" scores the highest (0.92 for high_risk). Even though the precision values are of lesser importance with regards to this specific dataset, this ensemble method also has the highest precision out of the tested methods.  
